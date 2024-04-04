@@ -8,7 +8,7 @@ export default function SocialLogin() {
 			<div className="flex flex-col gap-3">
 				<Link className="primary-btn flex h-10 items-center justify-center gap-3" href="/github/start">
 					<svg className="size-6" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" version="1.1">
-						<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+						<g id="Page-1" stroke="none" strokeWidth="1" fill="none" fillRule="evenodd">
 							<g id="Dribbble-Light-Preview" transform="translate(-140.000000, -7559.000000)" fill="currentColor">
 								<g id="icons" transform="translate(56.000000, 160.000000)">
 									<path
